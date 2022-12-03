@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bit-coding-github
+- 👀 I’m interested in Quantum Computing, Quantum Machine Learning.
+- 🌱 I’m currently learning Quantum based Drug Discovery using VQE and Phase Estimation Algorithms.
+- 💞️ I’m looking to collaborate on Blogs on QC, QML with Qiskit, Cirq. 
+- 📫 Reach me bitcoding.info@gmail.com
